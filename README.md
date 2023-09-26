@@ -66,3 +66,29 @@ a) Which product subcategory has the highest average profit in Australia?
 Question 7.
 
 a)Who are the most valuable customers and what do they purchase?
+
+## insights
+
+1a. Countries with the highest total profit for 2014 were United States, China and India
+
+b.
+
+•	For the United States, the Canon image CLASS 2200 Advanced Copier, Hewlett Packard LaserJet 3310 Copier and GBC Docu-Bind TL300 Electric Binding System were products that made the highest profit.
+
+•	For China, the Sauder Classic Bookcase, Metal Bush Classic Bookcase, and the Mobil HP Copy Machine Color System were products that made the highest profit.
+
+•	For India, the Sauder Classic Bookcase, Traditional Cisco Smart Phone with Caller ID and Hamilton Beach Refrigerator Red, were products that made the highest profit.
+
+2. Three Subcategories with the Highest average shipping cost in the United States were: Copiers, Machines and Tables with average shipping cost of $165.29, $132.25, $69.95 respectively.
+
+3. Nigeria had the greatest loss with a loss of $23,285.19
+b. Looking at the analysis, Nigeria had the greatest discount rate, which resulted in country incurring losses
+4. The least profitable subcategories in South-east Asia were Accessories, Supplies, Tables with losses of $8,641.53, $4,034.22 and $18,618.31 respectively. With that the Table Subcategory incurred the greatest loss
+b. Indonesia, should stop offering the Table subcategory, because they had a loss f $10,680.28
+
+5. Lancaster with an Average Profit of $157.4 was the least Profitable city in the United States
+ 
+6. Copiers with $105.06 had the highest Average profit in Australia
+  
+7. Tamara Chand, Raymond Buch and Sanjit Chand were the most valuable customers, with Technologies, being their most purchased categories
+
