@@ -92,3 +92,7 @@ b. Indonesia, should stop offering the Table subcategory, because they had a los
   
 7. Tamara Chand, Raymond Buch and Sanjit Chand were the most valuable customers, with Technologies, being their most purchased categories
 
+## Dashboard
+
+![](GlobalSuperstore Dasboard.jpg)
+
