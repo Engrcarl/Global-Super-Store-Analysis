@@ -1,4 +1,5 @@
 # Global-Super-Store-Analysis
+![](gss.webp)
 
 ## About Project
 Global Superstore is a global online retailer based in New York, boasting a broad product catalog and
