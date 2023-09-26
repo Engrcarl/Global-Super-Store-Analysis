@@ -94,5 +94,5 @@ b. Indonesia, should stop offering the Table subcategory, because they had a los
 
 ## Dashboard
 
-![](GlobalSuperstore Dasboard.jpg)
+![](GlobalSuperstoreDasboard.jpg)
 
